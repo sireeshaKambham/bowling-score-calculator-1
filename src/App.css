@@ -1,0 +1,88 @@
+/* App styles */
+
+/* common styles starts here*/
+.ml-10 {
+  margin-left: 10px;
+}
+
+.ml-30 {
+  margin-left: 30px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.m-30 {
+  margin: 30px;
+}
+
+.button {
+  background-color: #5514b4;
+  padding: 0 20px;
+  height: 30px;
+  color: #ffffff;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+input {
+  height: 30px;
+  border: 1px solid #ccc;
+  padding: 0 37px 0 10px;
+}
+
+/* common styles end here*/
+
+/* heading styles starts here */
+.bsc-container .header {
+  width: 100%;
+  background-color: #5514b4;
+  color: #ffffff;
+  text-align: center;
+}
+
+.bsc-container .header h3 {
+  display: inline-block;
+}
+
+.bsc-container .header h3+.welcome-text {
+  display: inline;
+  float: right;
+  padding-right: 20px;
+}
+
+/* heading styles end here */
+
+/* content styles starts here */
+.bsc-container .content {
+  text-align: center;
+}
+
+.bsc-container .logo {
+  width: 100px;
+  height: 100px;
+  margin-top: 6%;
+}
+
+.bsc-container .input-section {
+  margin-top: 20px;
+}
+
+.bsc-container table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.bsc-container table th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+/* content end starts here */
